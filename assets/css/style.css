@@ -1,0 +1,45 @@
+.bg{
+    background-color: black;
+    background-image: url(/assets/images/wpaper.jpg);
+}
+
+#quizbox{
+    display: inline-block;
+    /* border: solid red 2px; */
+    text-align: center;
+
+}
+
+#quizarea{
+    border: 2px solid black;
+    font-family: 'Lalezar', cursive;
+    
+
+    /* background: linear-gradient(red,black); */
+}
+
+
+
+#title{
+    /* align-content: center; */
+    font-family: 'Russo One', sans-serif;
+    margin: auto;
+    width: 85%;
+    /* background: linear-gradient(black,red); */
+    
+    
+}
+#wrapper{
+    border: dashed red 3px;
+    margin: 10;
+    background: linear-gradient(red,black);
+    color: white;
+}
+
+#counter{
+    width: 50%;
+    text-align: center;
+    font-family: 'Stalinist One', cursive;
+
+    
+}
